@@ -11,9 +11,8 @@ It draws hands-on labs from TryHackMe, blending technical insights from real-wor
 ---
 
 ## 📂 Contents
-- `slides.pdf` — My presentation slides.
-- `notes.md` — Speaking notes and references.
-- `images/` — Screenshots from TryHackMe labs.
+- `slides.pdf` — My presentation slides with screenshots.
+- `notes.docx` — Speaking notes and references.
 
 ---
 
